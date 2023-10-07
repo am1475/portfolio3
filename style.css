@@ -1,0 +1,72 @@
+/* Navbar Section */
+/* Navbar Section */
+#Navbar {
+    background-color: #343a40; /* Dark gray background color */
+    padding: 10px; /* Adjust padding as needed */
+    color: #fff; /* Text color set to white for contrast */
+}
+
+
+/* Container Section */
+#container {
+    background-color: #F7F7F7; /* Light gray background color */
+    padding: 50px; /* Adjust padding as needed */
+    color: #333; /* Text color set to dark gray for readability */
+}
+
+/* About Me Section */
+#about {
+    background-color: #E0E0E0; /* Lighter gray background color */
+    padding: 50px; /* Adjust padding as needed */
+    color: #333; /* Text color set to dark gray for readability */
+}
+
+/* Skills Section */
+#Skills {
+    background-color: #F2F2F2; /* Off-white background color */
+    padding: 50px; /* Adjust padding as needed */
+    color: #333; /* Text color set to dark gray for readability */
+}
+
+/* Footer Section */
+#Footer {
+    background-color: #343a40; /* Use the same dark gray background color as Navbar */
+    padding: 20px; /* Adjust padding as needed */
+    color: #fff; /* Text color set to white for contrast */
+}
+
+/* Improve overall font readability */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Add a background color to the body for consistency */
+body {
+    background-color: #f8f8f8; /* Light gray background color */
+}
+
+/* Style links */
+a {
+    color: #007BFF;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Style buttons */
+.btn {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
